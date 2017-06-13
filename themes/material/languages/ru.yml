@@ -1,0 +1,28 @@
+sidebar:
+    homepage: "Главная"
+    archive: "Архив"
+    article_num: "Количевство статей"
+post:
+    visitor: "Посетители"
+    views: "Просмотры"
+    continue: "Читать дальше"
+    older: "Предыдущий"
+    newer: "Следующий"
+    qrcode: "Читать эту статью на другом устройстве"
+    comments_load_button: "Читать комментарии (Make sure disq.us, disquscdn.com and disqus.com can load properly)"    
+share:
+    article_rss: "Статья в RSS"
+    comment_rss: "Коментарии в RSS"
+    toTwitter: "Поделиться в Twitter"
+    toFacebook: "Поделиться в Facebook"
+    toLinkedIn: "Поделиться в LinkedIn"
+    toTelegram: "Поделиться в Telegram"
+    toGplus: "Поделиться в Google+"
+    toWeibo: "Поделиться в Weibo"
+    toQQ: "Поделиться в QQ"
+title:
+    category: "Категории"
+    tag: "Теги"
+misc:
+    home: "Домой"
+    theme: "Тема"
